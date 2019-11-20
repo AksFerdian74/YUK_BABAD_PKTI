@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Yuk! BABAD</string>
     <string name="toast">Toast</string>
+    <string name="send">Send</string>
 </resources>
